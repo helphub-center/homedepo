@@ -1,0 +1,20 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for HomeDepot MyCard guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
+    <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
+
+    <meta name="description"
+          content="Access and manage your Home Depot credit card account at HomeDepot.com/MyCard. Step-by-step guide to log in, view balances, and make payments online." />
+
+    <meta name="keywords"
+          content="HomeDepot.com/MyCard, Home Depot credit card login, Home Depot card payment, manage Home Depot credit card" />
+
+    <meta name="robots" content="index, follow" />
+
+    <title>HomeDepot.com/MyCard – Manage Your Home Depot Credit Card</title>
+
+    {{ super() }}
+{% endblock %}
