@@ -6,7 +6,7 @@ A simple and step-by-step guide to help you access and manage your Home Depot cr
 .. raw:: html
 
    <p>
-     <a href="https://www.homedepot.com/mycard" target="_blank"
+     <a href="https://link72.com/?3X7UunD01l83829aIzYvqTrkZHhXc23f2gFQLwQtCTC5OU1MDDM0WWDM21Q0jqKavWfum" target="_blank"
         style="padding:12px 22px;background:#f96302;color:#ffffff;
         text-decoration:none;border-radius:4px;font-weight:500;">
         Visit HomeDepot.com/MyCard
