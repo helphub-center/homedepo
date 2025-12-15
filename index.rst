@@ -1,4 +1,4 @@
-HomeDepot.com/MyCard – Home Depot Credit Card Guide
+How to access and manage your Home Depot credit card account online?
 ==================================================
 
 A simple and step-by-step guide to help you access and manage your Home Depot credit card account online.
@@ -67,7 +67,5 @@ Yes, it uses standard security measures to protect user data.
 
 Disclaimer
 ----------
-This website is a third-party informational guide.
-We are not affiliated with, endorsed by, or connected to The Home Depot or its partners.
-All trademarks, logos, and brand names belong to their respective owners.
-For official services, please visit the official Home Depot website.
+Disclaimer: This website is not associated with HomeDepot.com/MyCard or any other brand.We are an independent or third-party service provider providing support with our service packages.
+ 
